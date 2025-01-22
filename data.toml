@@ -23,10 +23,10 @@ url = "https://www.youtube.com/@getreki"
 title = "Twitch"
 description = "My Twitch Channel"
 url = "https://www.twitch.tv/reki_tf2"
-#[[sections.items]]
-#title = "Prisoners"
-#description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-#url = "https://www.imdb.com/title/tt1392214/"
+[[sections.items]]
+title = "Prisoners"
+description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
+url = "https://www.imdb.com/title/tt1392214/"
 
 
 [[sections]]
