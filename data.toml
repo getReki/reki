@@ -17,11 +17,11 @@ item_style = "outline"
 embed_url = "https://www.youtube.com/watch?v=vz2UFjpzLW0"
 [[sections.items]]
 title = "Youtube"
-description = "Youtube Channel"
+description = "Active Here"
 url = "https://www.youtube.com/@getreki"
 [[sections.items]]
 title = "Twitch"
-description = "My Twitch Channel"
+description = "If I remember to stream here too"
 url = "https://www.twitch.tv/reki_tf2"
 [[sections.items]]
 title = "Twitter"
@@ -29,5 +29,28 @@ description = "Ain't it called X"
 url = "https://x.com/JetJL"
 [[sections.items]]
 title = "Blue Sky"
-description = "Ayoooo"
+description = "Nothing but"
 url = "https://bsky.app/profile/reki-vt.bsky.social"
+
+[[sections]]
+title = "Others"
+description = "Look for me on these Games"
+direction = "row"
+item_style = "filled"
+icon_size = "30px"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/vrchat/ffffff"
+title = "VrChat"
+url = "https://vrchat.com/home/user/usr_246ae639-2c76-47df-a2d6-3f5b26ddc56e"
+#[[sections.items]]
+#icon = "https://cdn.simpleicons.org/imdb/ffffff"
+#title = "Eh"
+#url = "https://www.imdb.com/name/nm0350453/"
+#[[sections.items]]
+#icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
+#title = "Wikipedia"
+#url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+#[[sections.items]]
+#title = "Rotten Tomatoes"
+#icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
+#url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
