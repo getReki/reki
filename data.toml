@@ -14,7 +14,7 @@ description = "Here are some of my Social Links"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/live/pcIlGHnDAHo?si=-nNsy2eQKDajhtTb"
+embed_url = "https://www.youtube.com/watch?v=vz2UFjpzLW0"
 [[sections.items]]
 title = "Youtube"
 description = "Youtube Channel"
