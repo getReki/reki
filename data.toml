@@ -38,7 +38,7 @@ url = "https://bsky.app/profile/reki-vt.bsky.social"
 
 [[sections]]
 title = "Others"
-description = "Look for me on these Games"
+description = "Look for me on these other sites"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
@@ -46,10 +46,10 @@ icon_size = "30px"
 icon = "https://cdn.simpleicons.org/vrchat/ffffff"
 title = "VrChat"
 url = "https://vrchat.com/home/user/usr_246ae639-2c76-47df-a2d6-3f5b26ddc56e"
-#[[sections.items]]
-#icon = "https://cdn.simpleicons.org/imdb/ffffff"
-#title = "Eh"
-#url = "https://www.imdb.com/name/nm0350453/"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/printables/ffffff"
+title = "Printables"
+url = "https://www.printables.com/@JeTJL_267044"
 #[[sections.items]]
 #icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
 #title = "Wikipedia"
