@@ -1,7 +1,7 @@
 name = "Reki"
 description = "Collegiate Esports Vtuber"
 keywords = "Reki, vtuber, gamer, youtube "
-image = "jake.webp"
+image = "rekiheadshot.png"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
@@ -14,7 +14,7 @@ description = "Here are some of my Social Links"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+embed_url = "https://www.youtube.com/live/pcIlGHnDAHo?si=-nNsy2eQKDajhtTb"
 [[sections.items]]
 title = "Youtube"
 description = "Youtube Channel"
@@ -24,30 +24,30 @@ title = "Twitch"
 description = "My Twitch Channel"
 url = "https://www.twitch.tv/reki_tf2"
 [[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "Twitter"
+description = "Ain't it called X"
+url = "https://x.com/JetJL"
 
 
-[[sections]]
-title = "Links"
-description = "Look for me on these websites"
-direction = "row"
-item_style = "filled"
-icon_size = "30px"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+#[[sections]]
+#title = "Links"
+#description = "Look for me on these websites"
+#direction = "row"
+#item_style = "filled"
+#icon_size = "30px"
+#[[sections.items]]
+#icon = "https://cdn.simpleicons.org/instagram/ffffff"
+#title = "Instagram"
+#url = "https://www.instagram.com/jakegyllenhaal"
+#[[sections.items]]
+#icon = "https://cdn.simpleicons.org/imdb/ffffff"
+#title = "IMDb"
+#url = "https://www.imdb.com/name/nm0350453/"
+#[[sections.items]]
+#icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
+#title = "Wikipedia"
+#url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+#[[sections.items]]
+#title = "Rotten Tomatoes"
+#icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
+#url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
