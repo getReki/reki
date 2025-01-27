@@ -35,6 +35,12 @@ title = "Blue Sky"
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
 description = "Nothing but"
 url = "https://bsky.app/profile/reki-vt.bsky.social"
+[[sections.items]]
+title = "Instagram"
+icon = "https://cdn.simpleicons.org/instagram/ffffff"
+description = "Photos toooo"
+url = "https://www.instagram.com/reki_vt"
+
 
 [[sections]]
 title = "Others"
