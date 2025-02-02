@@ -14,7 +14,7 @@ description = "Here are some of my Social Links"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://youtu.be/4ggYedAbuV8"
+embed_url = "https://www.youtube.com/shorts/oNiMcoOsGdM"
 [[sections.items]]
 title = "Youtube"
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
