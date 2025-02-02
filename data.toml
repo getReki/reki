@@ -22,7 +22,7 @@ description = "Active Here"
 url = "https://www.youtube.com/@getreki"
 [[sections.items]]
 title = "Twitch"
-description = "If I remember to stream here too"
+description = "Active here too"
 icon = "https://cdn.simpleicons.org/twitch/ffffff"
 url = "https://www.twitch.tv/reki_vt"
 [[sections.items]]
@@ -38,7 +38,7 @@ url = "https://bsky.app/profile/reki-vt.bsky.social"
 [[sections.items]]
 title = "Instagram"
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
-description = "Photos toooo"
+description = "Getting started here as well"
 url = "https://www.instagram.com/reki_vt"
 
 
