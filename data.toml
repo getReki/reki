@@ -13,9 +13,6 @@ title = "Links"
 description = "Here are some of my Social Links"
 direction = "column"
 item_style = "outline"
-[[sections.items]]
-embed_url = "https://www.youtube.com/shorts/oNiMcoOsGdM"
-[[sections.items]]
 title = "Youtube"
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
 description = "Active Here"
