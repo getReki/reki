@@ -13,6 +13,7 @@ title = "Links"
 description = "Here are some of my Social Links"
 direction = "column"
 item_style = "outline"
+[[sections.items]]
 title = "Youtube"
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
 description = "Active Here"
