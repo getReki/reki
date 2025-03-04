@@ -26,17 +26,17 @@ url = "https://www.youtube.com/@getreki"
 [[sections.items]]
 title = "Twitter"
 icon = "https://cdn.simpleicons.org/x/ffffff"
-description = "Ain't it called X"
+description = "Main Socials"
 url = "https://x.com/JetJL"
 [[sections.items]]
 title = "Blue Sky"
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
-description = "Nothing but"
+description = "Other Socials"
 url = "https://bsky.app/profile/reki-vt.bsky.social"
 [[sections.items]]
 title = "Instagram"
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
-description = "Getting started here as well"
+description = "Photography!"
 url = "https://www.instagram.com/reki_vt"
 
 
