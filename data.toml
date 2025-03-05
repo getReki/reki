@@ -13,29 +13,31 @@ title = "Links"
 description = "Here are some of my Social Links"
 direction = "column"
 item_style = "outline"
+
+[[sections.items]]
+title = "Youtube"
+icon = "https://cdn.simpleicons.org/youtube/ffffff"
+description = "Active Here"
+url = "https://www.youtube.com/@getreki"
+[[sections.items]]
 title = "Twitch"
-description = "Streams and Clips"
+description = "Active here too"
 icon = "https://cdn.simpleicons.org/twitch/ffffff"
 url = "https://www.twitch.tv/reki_vt"
 [[sections.items]]
-title = "Youtube"
-description = "Streams and Shorts"
-icon = "https://cdn.simpleicons.org/youtube/ffffff"
-url = "https://www.youtube.com/@getreki"
-[[sections.items]]
 title = "Twitter"
 icon = "https://cdn.simpleicons.org/x/ffffff"
-description = "Main Socials"
+description = "Ain't it called X"
 url = "https://x.com/JetJL"
 [[sections.items]]
 title = "Blue Sky"
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
-description = "Other Socials"
+description = "Nothing but"
 url = "https://bsky.app/profile/reki-vt.bsky.social"
 [[sections.items]]
 title = "Instagram"
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
-description = "Photography!"
+description = "Getting started here as well"
 url = "https://www.instagram.com/reki_vt"
 
 
