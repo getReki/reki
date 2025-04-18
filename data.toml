@@ -36,15 +36,15 @@ icon = "https://cdn.simpleicons.org/x/ffffff"
 description = "Ain't it called X"
 url = "https://x.com/JetJL"
 [[sections.items]]
+title = "Instagram"
+icon = "https://cdn.simpleicons.org/instagram/ffffff"
+description = "My Photography here"
+url = "https://www.instagram.com/reki_vt"
+[[sections.items]]
 title = "Blue Sky"
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
 description = "Nothing but"
 url = "https://bsky.app/profile/reki-vt.bsky.social"
-[[sections.items]]
-title = "Instagram"
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-description = "Getting started here as well"
-url = "https://www.instagram.com/reki_vt"
 
 
 [[sections]]
