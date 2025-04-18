@@ -14,21 +14,22 @@ description = "Here are some of my Social Links"
 direction = "column"
 item_style = "outline"
 
+
+[[sections.items]]
+title = "Twitch"
+description = "Active here and Twitch Affiliate"
+icon = "https://cdn.simpleicons.org/twitch/ffffff"
+url = "https://www.twitch.tv/reki_vt"
 [[sections.items]]
 title = "Youtube"
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
-description = "Active Here"
+description = "For Shorts, vods and Videos"
 url = "https://www.youtube.com/@getreki"
 [[sections.items]]
 title = "Discord"
 icon = "https://cdn.simpleicons.org/discord/ffffff"
 description = "My Discord Channel for Vtubing"
 url = "https://discord.gg/DgFA3vzR8z"
-[[sections.items]]
-title = "Twitch"
-description = "Active here too"
-icon = "https://cdn.simpleicons.org/twitch/ffffff"
-url = "https://www.twitch.tv/reki_vt"
 [[sections.items]]
 title = "Twitter"
 icon = "https://cdn.simpleicons.org/x/ffffff"
