@@ -45,7 +45,11 @@ title = "Blue Sky"
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
 description = "Nothing but"
 url = "https://bsky.app/profile/reki-vt.bsky.social"
-
+[[sections.items]]
+title = " Bronco Esports Discord"
+icon = "https://cdn.simpleicons.org/discord/ffffff"
+description = "My Collegiate Esports Discord"
+url = "https://discord.gg/UGBv2rw"
 
 [[sections]]
 title = "Others"
