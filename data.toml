@@ -42,7 +42,6 @@ description = "My Photography here"
 url = "https://www.instagram.com/reki_vt"
 [[sections.items]]
 title = "VGen"
-icon = "https://help.vgen.co/hc/article_attachments/13004292461975"
 description = "VGen Page"
 url = "https://vgen.co/JetJL/characters"
 [[sections.items]]
