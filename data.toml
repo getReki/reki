@@ -41,10 +41,6 @@ icon = "https://cdn.simpleicons.org/instagram/ffffff"
 description = "My Photography here"
 url = "https://www.instagram.com/reki_vt"
 [[sections.items]]
-title = "Vgen"
-description = "My Vgen Page"
-url = "https://vgen.co/JetJL/characters"
-[[sections.items]]
 title = "Blue Sky"
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
 description = "Nothing but"
