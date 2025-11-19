@@ -1,3 +1,4 @@
+@@ -1,78 +1,83 @@
 name = "Reki"
 description = "CyborgWizard Vtuber"
 keywords = "Reki, vtuber, gamer, youtube, twitch, cyborg, ENVtuber, streamer, carrd, linktree"
@@ -41,6 +42,11 @@ icon = "https://cdn.simpleicons.org/instagram/ffffff"
 description = "My Photography here"
 url = "https://www.instagram.com/reki_vt"
 [[sections.items]]
+title = "VGen"
+icon = "https://help.vgen.co/hc/article_attachments/13004249258519"
+description = "VGen Page"
+url = "https://vgen.co/JetJL/characters"
+[[sections.items]]
 title = "Blue Sky"
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
 description = "Nothing but"
@@ -68,11 +74,3 @@ url = "https://www.printables.com/@JeTJL_267044"
 [[sections.items]]
 title = "Vroid"
 url = "https://hub.vroid.com/en/characters/726736620083897447"
-#[[sections.items]]
-#icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-#title = "Wikipedia"
-#url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-#[[sections.items]]
-#title = "Rotten Tomatoes"
-#icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-#url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
