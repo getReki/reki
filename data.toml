@@ -17,13 +17,13 @@ item_style = "outline"
 embed_url = "https://www.youtube.com/embed/iVzYME0DbwI?si=KqksKtcsx9Fr7lfd"
 [[sections.items]]
 title = "Twitch"
-description = "Active here and Twitch Affiliate"
+description = "Twitch Affiliate"
 icon = "https://cdn.simpleicons.org/twitch/ffffff"
 url = "https://www.twitch.tv/reki_vt"
 [[sections.items]]
 title = "Youtube"
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
-description = "For Shorts, vods and Videos"
+description = "Shorts, Streams and Videos"
 url = "https://www.youtube.com/@getreki"
 [[sections.items]]
 title = "Reki's Discord"
